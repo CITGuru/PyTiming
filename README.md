@@ -9,13 +9,13 @@ Installation
 *****
 
 PyPI (PIP)
-########
+######
 
 ::
     $ pip install pytiming
 
 GitHub (Git)
-########
+######
 
 ::
     $ git clone https://github.com/CITGuru/PyTiming.git
